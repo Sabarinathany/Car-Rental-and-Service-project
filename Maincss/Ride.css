@@ -1,0 +1,85 @@
+#ride-p {
+  margin-top: 400px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.ride {
+  /* background-color: white; */
+  width: 100%;
+}
+#ride-rent {
+  font-size: 30px;
+  font-weight: bold;
+}
+#rride-rent {
+  font-size: 30px;
+  font-weight: bold;
+  color: orangered;
+}
+#c2-logo {
+  width: 50px;
+  margin-top: 80px;
+}
+#r-location {
+  margin-top: 20px;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: 600;
+}
+#ride-logo {
+  width: 20%;
+  margin-left: 90px;
+}
+#ride-logo:hover {
+  border-bottom: 2px solid orangered;
+  transition: 0.5s;
+  animation: a;
+  animation-duration: 0.5s;
+}
+#c1-logo {
+  width: 50px;
+  margin-top: 80px;
+}
+#r1-location {
+  margin-top: 20px;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: 600;
+}
+#ride1-logo {
+  width: 20%;
+  margin-left: 450px;
+  margin-top: -300px;
+}
+#ride1-logo:hover {
+  border-bottom: 2px solid orangered;
+  transition: 0.5s;
+  animation: a;
+  animation-duration: 0.5s;
+}
+
+#c3-logo {
+  width: 30px;
+  margin-top: 80px;
+}
+#r3-location {
+  margin-top: 20px;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: 600;
+}
+#ride3-logo {
+  width: 20%;
+  margin-left: 800px;
+  margin-top: -300px;
+}
+#ride3-logo:hover {
+  border-bottom: 2px solid orangered;
+  transition: 0.5s;
+  animation: a;
+  animation-duration: 0.5s;
+  width: 20%;
+  margin-left: 800px;
+  margin-top: -300px;
+}

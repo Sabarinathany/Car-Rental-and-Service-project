@@ -1,0 +1,167 @@
+#review-p {
+  margin-top: 160px;
+  font-size: 25px;
+  color: black;
+}
+#review-p1 {
+  margin-top: -10px;
+  font-size: 35px;
+  color: black;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+#Review-count {
+  margin-top: 80px;
+  margin-left: -600px;
+  color: red;
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+#Review-count1 {
+  margin-top: -110px;
+  margin-left: 20px;
+  color: red;
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+#Review-count2 {
+  margin-top: -110px;
+  margin-left: 600px;
+  color: red;
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+#review-icon0 {
+  color: red;
+  font-size: 35px;
+  margin-left: 08px;
+  word-spacing: 20px;
+}
+#review-icon2 {
+  color: rgb(255, 242, 0);
+  font-size: 35px;
+  word-spacing: 20px;
+  margin-left: 08px;
+}
+#review-icon3 {
+  color: rgb(255, 77, 0);
+  font-size: 35px;
+  word-spacing: 20px;
+  margin-left: 08px;
+}
+#review-customer1 {
+  color: rgb(1, 1, 1);
+  font-weight: bold;
+  margin-left: 60px;
+  font-size: 18px;
+  margin-top: 20px;
+  text-transform: capitalize;
+}
+#review-customer2 {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  margin-left: 60px;
+  font-size: 18px;
+  margin-top: 20px;
+  text-transform: capitalize;
+}
+#review-icon2 {
+  color: rgb(187, 0, 255);
+  font-size: 35px;
+  word-spacing: 20px;
+}
+#review-customer {
+  color: rgb(12, 12, 12);
+  font-weight: bold;
+  margin-left: 60px;
+  font-size: 18px;
+  margin-top: 20px;
+  text-transform: capitalize;
+}
+#review-feedback {
+}
+#review-content-1 {
+  height: 480px;
+  background-color: rgb(255, 255, 254);
+  width: 30%;
+  margin-top: 100px;
+
+  filter: drop-shadow(2px 4px 13px black);
+}
+#review-img1 {
+  width: 25%;
+  height: 80px;
+  margin-top: 30px;
+
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px rgb(254, 255, 255) solid;
+}
+#review-name {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  color: rgb(255, 255, 254);
+}
+#review-icon-star {
+  position: relative;
+  color: rgb(255, 162, 0);
+  outline-offset: 2px;
+  font-size: 20px;
+  top: 30px;
+}
+#review-loren {
+  position: relative;
+  width: 80%;
+  justify-content: center;
+  top: 40px;
+  margin-left: 40px;
+}
+#review-speical {
+  position: relative;
+  top: 30px;
+  background-color: rgb(0, 191, 255);
+  margin: 20px;
+
+  border-radius: 20px;
+}
+#phone1-png {
+  margin-top: 150px;
+  margin-left: 500px;
+
+  position: relative;
+}
+#review-download {
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: -330px;
+  margin-left: 30px;
+  width: 33%;
+}
+#download-letter {
+  color: rgb(255, 77, 0);
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  width: 33%;
+}
+#review-download-1 {
+  width: 500px;
+  text-align: left;
+  font-size: 14.5px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+#playstore {
+  width: 130px;
+  margin-left: -800px;
+  margin-top: 30px;
+}
+#ios {
+  width: 130px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
